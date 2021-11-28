@@ -1,0 +1,8 @@
+301 1000.00 Rent
+302  500.00 Apartment Supplies
+102  -50.00 Books
+401  300.00 Food
+501  300.00 Clothing
+201  300.00 Automotive Needs
+101  200.00 School Supplies
+202  200.00 Gas

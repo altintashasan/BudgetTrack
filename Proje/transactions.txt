@@ -1,0 +1,13 @@
+301 2007/08/21 -1000.00 Rent
+302 2007/08/20  -123.45 Target Purchase
+102 2007/08/23   -82.00 Absolute C++
+401 2007/08/24    -3.79 Taco Bell
+501 2007/08/25   -30.00 T-Shirts
+101 2007/08/27    -2.79 Stapler
+202 2007/08/28   -40.00 Gas
+302 2007/08/19   -85.71 Blender
+102 2007/08/25   -55.00 Introduction to Linux
+102 2007/08/26    -8.00 CS215 Lab Manual
+401 2007/08/26   -10.00 Lunch at Black Cat
+501 2007/08/27  -300.00 Jeans
+102 2007/08/24   500.00 Textbook Stipend
