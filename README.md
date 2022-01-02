@@ -3,8 +3,8 @@ Budget Track in Command Line
 
 # Aim of The Project:
 There should be written a program that:
-• keeps track of a budget of any person,
-• prints a report according to rules.
+* keeps track of a budget of any person,
+* prints a report according to rules.
 # Summary of Project:
 This project is programmed by using C++. Program of the project is accordingly written by
 using object oriented programming principles. This program works with Windows platforms.
